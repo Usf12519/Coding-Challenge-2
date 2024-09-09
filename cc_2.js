@@ -21,6 +21,10 @@ console.log(`For a bill of $33 {testbill}. the tip
     $39.6{testBill + testTip).toFixed(2)}`); 
 
 
-
+// Task 3: Create a Function
+const.calculateTip(`For a bill of $33 {testbill}. the tip
+    is $6.6{testTip.toFixed(2)}, and the total value is
+    $39.6{testBill + testTip).toFixed(2)}`); 
+ )
 
     
