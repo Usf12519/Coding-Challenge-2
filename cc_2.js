@@ -12,6 +12,15 @@
 
 
         }
-    
+
+
+// Task 2: Output Details
+let bill = 33
+console.log(`For a bill of $33 {testbill}. the tip
+    is $6.6{testTip.toFixed(2)}, and the total value is
+    $39.6{testBill + testTip).toFixed(2)}`); 
+
+
+
 
     
